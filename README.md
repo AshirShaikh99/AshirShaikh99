@@ -26,7 +26,7 @@ My focus is the part that makes AI useful in practice: handling interruptions, k
 </td><td width="50%" valign="top">
 <h3>02 / StackFlight</h3>
 <p><b>From a spoken idea to a bounded MVP.</b></p>
-<p>An Urdu-first AI product room with a live transcript, an evolving MVP map, optional source research, and no more than five implementation tasks.</p>
+<p>An AI product room with a live transcript, an evolving MVP map, optional source research, and no more than five implementation tasks.</p>
 <p><code>Next.js</code> <code>LiveKit</code> <code>Deepgram</code></p>
 <p><a href="https://github.com/AshirShaikh99/stackflight-voice"><b>Explore the code →</b></a></p>
 </td></tr>
