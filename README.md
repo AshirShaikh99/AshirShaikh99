@@ -9,9 +9,9 @@
 
 ### Applied AI Engineer
 
-**Voice Agents · AI Reliability · Full-Stack Systems**
+**AI Systems · Web & Mobile · Backend & Cloud**
 
-I'm **Ashir**, an independent **Applied AI Engineer**. I work across real-time voice agents, retrieval, tool integrations, web and mobile applications, and the infrastructure that connects them.
+I'm **Ashir**, an independent **Applied AI Engineer** with a full-stack product background. I build across AI systems, voice experiences, web and mobile applications, backend services, integrations, and cloud infrastructure—from architecture to deployment.
 
 My focus is the part that makes AI useful in practice: handling interruptions, keeping state correct, grounding answers, enforcing action boundaries, and giving people a product they can trust.
 
@@ -23,27 +23,27 @@ My focus is the part that makes AI useful in practice: handling interruptions, k
 <tr><td width="50%" valign="top">
 <h3>01 / Voice Reliability Lab</h3>
 <p><b>What happens when the happy path breaks?</b></p>
-<p>A LiveKit voice-agent prototype that tests corrections, missing confirmation, and tool failure. The model selects tools; deterministic policy code decides which actions are allowed.</p>
-<p><code>LiveKit</code> <code>TypeScript</code> <code>Zod</code></p>
+<p>A real-time voice-agent prototype that tests corrections, missing confirmation, and tool failure. The model selects tools; deterministic policy code decides which actions are allowed.</p>
+<p><code>Voice AI</code> <code>Policy Gates</code> <code>Reliability</code></p>
 <p><a href="https://github.com/AshirShaikh99/voice-reliability-lab"><b>Explore the code →</b></a> · <a href="https://ashirshaikh.com/voice-reliability-lab">Live demo ↗</a></p>
 </td><td width="50%" valign="top">
 <h3>02 / StackFlight</h3>
 <p><b>From a spoken idea to a bounded MVP.</b></p>
 <p>An AI product room with a live transcript, an evolving MVP map, optional source research, and no more than five implementation tasks.</p>
-<p><code>Next.js</code> <code>LiveKit</code> <code>Deepgram</code></p>
+<p><code>Conversational AI</code> <code>Product Planning</code> <code>Research</code></p>
 <p><a href="https://github.com/AshirShaikh99/stackflight-voice"><b>Explore the code →</b></a></p>
 </td></tr>
 <tr><td width="50%" valign="top">
 <h3>03 / ChalkLens</h3>
 <p><b>Useful AI when the internet is unavailable.</b></p>
-<p>An offline classroom assistant that turns textbook PDFs and scanned pages into lesson kits using local Gemma inference, native PDF extraction, and OCR.</p>
-<p><code>Flutter</code> <code>Gemma</code> <code>LiteRT</code></p>
+<p>An offline classroom assistant that turns textbook PDFs and scanned pages into lesson kits using local model inference, native PDF extraction, and OCR.</p>
+<p><code>On-Device AI</code> <code>Desktop</code> <code>Offline</code></p>
 <p><a href="https://github.com/AshirShaikh99/chalklens-offline-classroom"><b>Explore the code →</b></a></p>
 </td><td width="50%" valign="top">
 <h3>04 / Creative AI</h3>
 <p><b>AI at the product interface.</b></p>
-<p>A Flutter application for AI-assisted everyday tasks and text-to-image creation, with a separate Python backend repository.</p>
-<p><code>Flutter</code> <code>Dart</code> <code>Python</code></p>
+<p>A mobile application for AI-assisted everyday tasks and text-to-image creation, supported by a separate backend service.</p>
+<p><code>Mobile</code> <code>Generative AI</code> <code>Backend</code></p>
 <p><a href="https://github.com/AshirShaikh99/Creative-AI"><b>Explore the app →</b></a> · <a href="https://github.com/AshirShaikh99/creative-ai-backend">Backend →</a></p>
 </td></tr>
 </table>
@@ -55,14 +55,14 @@ My focus is the part that makes AI useful in practice: handling interruptions, k
 - **Make evidence inspectable.** Ground answers in sources and keep system behavior observable.
 - **Own the whole product.** Carry the work from interface and API design through deployment and iteration.
 
-### Across the stack
+### End-to-end engineering
 
-| Layer | Tools I work with |
+| Area | What I build | 
 | :--- | :--- |
-| Voice & agents | LiveKit · Deepgram · tool calling · SIP telephony |
-| AI systems | Retrieval · MCP integrations · local Gemma inference · policy gates |
-| Product | TypeScript · Next.js · React · Flutter · SwiftUI |
-| Backend & delivery | Python · Node.js · Docker · cloud infrastructure |
+| AI & voice systems | Conversational agents · speech interfaces · retrieval · tool execution | 
+| Reliability & evaluation | Scenario testing · action controls · failure recovery · model evaluation | 
+| Web & mobile | Full-stack applications · native and cross-platform experiences · product interfaces | 
+| Backend & cloud | APIs · data workflows · service integrations · deployment · infrastructure | 
 
 <details>
 <summary><b>Professional background</b></summary>
