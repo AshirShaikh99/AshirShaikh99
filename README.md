@@ -1,3 +1,4 @@
+<a href="https://ashirshaikh.com"><img src="https://raw.githubusercontent.com/AshirShaikh99/AshirShaikh99/12204391df1a847a07f88e807fbe3a8bc1fd565d/assets/hero.svg" width="100%" alt="Ashir Shaikh — Applied AI Engineer" /></a>
 
 
 <p align="center">
