@@ -6,9 +6,11 @@
   <a href="https://ashirshaikh.com/research"><b>Engineering notes ↗</b></a>
 </p>
 
-### I build the system around the model.
+### Applied AI Engineer
 
-I'm **Ashir**, an independent **AI & full-stack product engineer**. I work across real-time voice agents, retrieval, tool integrations, web and mobile applications, and the infrastructure that connects them.
+**Voice Agents · AI Reliability · Full-Stack Systems**
+
+I'm **Ashir**, an independent **Applied AI Engineer**. I work across real-time voice agents, retrieval, tool integrations, web and mobile applications, and the infrastructure that connects them.
 
 My focus is the part that makes AI useful in practice: handling interruptions, keeping state correct, grounding answers, enforcing action boundaries, and giving people a product they can trust.
 
