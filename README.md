@@ -1,4 +1,4 @@
-<a href="https://ashirshaikh.com"><img src="https://raw.githubusercontent.com/AshirShaikh99/AshirShaikh99/main/assets/hero.svg?v=applied-ai-2026" width="100%" alt="Ashir Shaikh — AI systems built for the real world" /></a>
+
 
 <p align="center">
   <a href="https://ashirshaikh.com"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
