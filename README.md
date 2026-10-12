@@ -50,7 +50,7 @@ My focus is the part that makes AI useful in practice: handling interruptions, k
 
 ### Engineering principles
 
-- **Keep the model's authority bounded.** Validate tool inputs and enforce consequential actions in code.
+- **Keep AI actions under control.** Check the information AI sends to tools and ask for confirmation before important actions.
 - **Test the failure paths.** Corrections, timeouts, ambiguous intent, and recovery deserve explicit scenarios.
 - **Make evidence inspectable.** Ground answers in sources and keep system behavior observable.
 - **Own the whole product.** Carry the work from interface and API design through deployment and iteration.
